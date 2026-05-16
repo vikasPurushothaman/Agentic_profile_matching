@@ -1,0 +1,15 @@
+{
+    "id": "cand_003",
+    "name": "Charlie Brown",
+    "title": "Backend Engineer",
+    "experience": 6,
+    "skills": [
+        "Java",
+        "Spring Boot",
+        "Microservices",
+        "AWS",
+        "SQL"
+    ],
+    "education": "BS Computer Engineering",
+    "summary": "Backend specialist focused on distributed systems and microservices architecture using Java and Spring."
+}

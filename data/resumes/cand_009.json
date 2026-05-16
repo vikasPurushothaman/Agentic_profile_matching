@@ -1,0 +1,15 @@
+{
+    "id": "cand_009",
+    "name": "Ian Malcolm",
+    "title": "Senior React Native Engineer",
+    "experience": 6,
+    "skills": [
+        "React Native",
+        "React",
+        "Mobile Development",
+        "TypeScript",
+        "Redux"
+    ],
+    "education": "MS Computer Science",
+    "summary": "Mobile developer with extensive experience building cross-platform apps using React Native."
+}

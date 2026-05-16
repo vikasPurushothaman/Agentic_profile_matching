@@ -1,0 +1,14 @@
+{
+    "id": "cand_007",
+    "name": "George Miller",
+    "title": "Frontend Developer",
+    "experience": 4,
+    "skills": [
+        "Angular",
+        "TypeScript",
+        "RxJS",
+        "SASS"
+    ],
+    "education": "BS Information Technology",
+    "summary": "Dedicated Angular developer with strong skills in TypeScript and reactive programming."
+}

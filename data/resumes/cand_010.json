@@ -1,0 +1,14 @@
+{
+    "id": "cand_010",
+    "name": "Jane Doe",
+    "title": "Junior Web Developer",
+    "experience": 1,
+    "skills": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React"
+    ],
+    "education": "Self-Taught",
+    "summary": "Enthusiastic junior developer eager to learn and grow in a fast-paced environment."
+}

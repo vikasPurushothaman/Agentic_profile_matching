@@ -1,0 +1,16 @@
+{
+    "id": "cand_005",
+    "name": "Evan Wright",
+    "title": "Lead Software Engineer",
+    "experience": 8,
+    "skills": [
+        "React",
+        "Node.js",
+        "AWS",
+        "System Design",
+        "TypeScript",
+        "GraphQL"
+    ],
+    "education": "BS Computer Science",
+    "summary": "Lead engineer with 8 years of experience. Expert in full-stack JavaScript (React/Node) and cloud architecture."
+}

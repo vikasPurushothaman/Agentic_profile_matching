@@ -1,0 +1,15 @@
+{
+    "id": "cand_002",
+    "name": "Bob Jones",
+    "title": "Full Stack Developer",
+    "experience": 3,
+    "skills": [
+        "Vue.js",
+        "Python",
+        "Django",
+        "JavaScript",
+        "PostgreSQL"
+    ],
+    "education": "MS Software Engineering",
+    "summary": "Full stack developer comfortable with Vue on the frontend and Python/Django on the backend."
+}

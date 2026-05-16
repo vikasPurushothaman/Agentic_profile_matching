@@ -1,0 +1,15 @@
+{
+    "id": "cand_008",
+    "name": "Hannah Abbott",
+    "title": "DevOps Engineer",
+    "experience": 5,
+    "skills": [
+        "Docker",
+        "Kubernetes",
+        "CI/CD",
+        "AWS",
+        "Terraform"
+    ],
+    "education": "BS Computer Science",
+    "summary": "DevOps engineer focusing on automation, containerization, and infrastructure as code."
+}

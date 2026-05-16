@@ -1,0 +1,16 @@
+{
+    "id": "cand_001",
+    "name": "Alice Smith",
+    "title": "Senior Frontend Engineer",
+    "experience": 5,
+    "skills": [
+        "React",
+        "TypeScript",
+        "Node.js",
+        "Redux",
+        "CSS",
+        "Next.js"
+    ],
+    "education": "BS Computer Science",
+    "summary": "Experienced frontend engineer with a strong background in React and Next.js. Built scalable web applications for 5 years."
+}

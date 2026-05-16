@@ -1,0 +1,15 @@
+{
+    "id": "cand_004",
+    "name": "Diana Prince",
+    "title": "React Developer",
+    "experience": 2,
+    "skills": [
+        "React",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Tailwind"
+    ],
+    "education": "Coding Bootcamp",
+    "summary": "Passionate UI developer with 2 years of experience building responsive designs using React and Tailwind."
+}

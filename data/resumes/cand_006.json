@@ -1,0 +1,15 @@
+{
+    "id": "cand_006",
+    "name": "Fiona Gallagher",
+    "title": "Data Scientist",
+    "experience": 4,
+    "skills": [
+        "Python",
+        "Machine Learning",
+        "Pandas",
+        "SQL",
+        "TensorFlow"
+    ],
+    "education": "PhD Data Science",
+    "summary": "Data scientist with expertise in predictive modeling and machine learning using Python."
+}
